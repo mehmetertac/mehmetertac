@@ -1,3 +1,4 @@
+Mehmet E. Aytekin
 Energy ML engineer — forecasts, dispatch, and turbine health.
 
 Probabilistic day-ahead solar serving, battery dispatch regret (SPO vs MAE), and a hybrid wind gearbox digital twin.
